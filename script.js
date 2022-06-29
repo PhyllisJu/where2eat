@@ -16,6 +16,7 @@ const answers = [
   "Texas Roadhouse",
   "Cravings",
   "Moki Sushi",
+  "Lao Szechuan",
 ];
 
 const count = answers.length;
