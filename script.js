@@ -12,6 +12,10 @@ const answers = [
   "Szechuan Restaurant",
   "MaiXiangCun",
   "Yogi",
+  "Sticky Rice",
+  "Texas Roadhouse",
+  "Cravings",
+  "Moki Sushi",
 ];
 
 const count = answers.length;
