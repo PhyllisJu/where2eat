@@ -64,6 +64,7 @@ button {
 #answer:focus {
   border: 2px solid darksalmon;
   border-radius: 10px;
+  outline: none;
 }
 
 #reset {
@@ -79,6 +80,7 @@ button {
 #reset:focus {
   border: 2px solid peru;
   border-radius: 10px;
+  outline: none;
 }
 
 footer {
