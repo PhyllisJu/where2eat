@@ -10,7 +10,7 @@ const answers = [
   "Star Karaoke",
   "Shiquan Wonton",
   "Golden Wheat",
-  "Yogi",
+  "Yogi Korean",
   "Sticky Rice",
   "Texas Roadhouse",
   "Cravings",
