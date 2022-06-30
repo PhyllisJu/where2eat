@@ -83,11 +83,12 @@ button {
 }
 
 footer {
-  margin: 80px 0;
+  margin: 7vw 0;
 }
 
 a {
   color: burlywood;
+  margin: 1vw 0;
 }
 
 footer a {
